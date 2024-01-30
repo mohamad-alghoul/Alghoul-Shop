@@ -47,12 +47,6 @@ Install dependencies:
 
 
 npm install
-Configure Firebase:
-
-Create a Firebase project on the Firebase Console.
-Set up Firebase Authentication.
-Copy the Firebase configuration details (apiKey, authDomain, projectId, etc.) and replace them in the project.
-Start the development server:
 
 
 npm run dev
